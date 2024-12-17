@@ -1,0 +1,35 @@
+
+.wrapper {
+    margin: 8;
+    padding: 8;
+    display: "flex";
+    flex-Direction: "row";
+    border: "1px solid grey";
+    border-Radius: 16;
+}
+
+.imageContainer {}
+
+image {
+    width: 50;
+    height: 50;
+    border-Radius: 25;
+}
+
+.contextContainer {
+    margin-Left: 8;
+    display: "flex";
+    flex-Direction: "column";
+    justify-Content: "center";
+}
+
+.nameText {
+    color: "black";
+    font-size: 16;
+    font-Weight: "bold";
+}
+
+.commentText {
+    color: "black";
+    font-size: 16;
+};
